@@ -1,0 +1,55 @@
+{
+  "reservations": [
+    {
+      "id": "80119483",
+      "arrivalDate": "October 11th 2019",
+      "nights": 2,
+      "guests": 3,
+      "status": "Confirmed",
+      "bookedOn": "2019-09-08T20:50:37+09:00",
+      "price": 470
+    },
+    {
+      "id": "80184132",
+      "arrivalDate": "October 27th 2019",
+      "nights": 4,
+      "guests": 2,
+      "status": "Confirmed",
+      "bookedOn": "2019-09-06T20:50:37+09:00",
+      "price": 940
+    }
+  ],
+  "events": [
+    {
+      "title": "New Year's Eve Party",
+      "description": "The Gotham Imperial invites you to celebrate our annual New Year's Eve party.",
+      "img": "/img/event-new-year.jpg",
+      "date": "December 31st 2019"
+    },
+    {
+      "title": "Rooftop Party",
+      "description": "Come celebrate the re-opening of our rooftop bar, following last year's incident.",
+      "img": "/img/event-rooftop.jpg",
+      "date": "October 4th 2019"
+    },
+    {
+      "title": "Horticultural Society Luncheon",
+      "description": "Come celebrate another great year with Gotham's horticultural elite.",
+      "img": "/img/event-horticultural.jpg",
+      "date": "September 14th 2019"
+    },
+    {
+      "title": "Spring Charity Ball",
+      "description": "Gotham Imperial Hotel invites yout to help us fight TBA.",
+      "img": "/img/event-gala.jpg",
+      "date": "September 14th 2019"
+    },
+    {
+      "title": "Halloween Party",
+      "description": "The scariest night of the year in Gotham&hellip; and that's saying a lot!",
+      "img": "/img/event-halloween.jpg",
+      "date": "October 31st 2019"
+    }
+  ],
+  "subscriptions": []
+}
